@@ -53,8 +53,11 @@ def main():
     tmp.unlink(missing_ok=True)
     # perfil aparte (no choca con el Chrome abierto) y espera al archivo: Chrome a veces no se cierra solo (pantalla dormida, actualización pendiente)
     perfil = pathlib.Path(tempfile.gettempdir()) / "rm_pdf_perfil"
+    # en la nube (Linux): Chrome necesita --no-sandbox y se traba con un perfil nuevo, así que usa el suyo
+    linux = platform.system() == "Linux"
+    extra = ["--no-sandbox"] if linux else []
     proc = subprocess.Popen(
-        [navegador(), "--headless=new", "--disable-gpu", "--no-first-run", f"--user-data-dir={perfil}", "--allow-file-access-from-files",
+        [navegador(), *extra, "--headless=new", "--disable-gpu", "--no-first-run", *([] if linux else [f"--user-data-dir={perfil}"]), "--allow-file-access-from-files",
          "--no-pdf-header-footer", "--virtual-time-budget=8000", f"--print-to-pdf={tmp}", src.as_uri()],
         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL,
     )
