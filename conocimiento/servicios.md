@@ -13,6 +13,10 @@ Fuente: su página **plasticatijuana.com** (leída el 2026-11-16, en inglés). T
 - **Teléfonos públicos:** (619) 240-8571 · gratuito (888) 259-9272.
 - **Registro:** Registro Estatal de Turismo de Baja California; aviso COFEPRIS en la página.
 
+## Su diferenciador (dicho por ella 2026-11-16)
+- **Operan todo juntos, dos cirujanos en cada cirugía.** Es un plus porque **se reducen los tiempos quirúrgicos**.
+- La **medicina regenerativa es solo de ella**.
+
 ## Lo que la página dice de la Dra. Aragón
 - Una de las pocas cirujanas plásticas mujeres de la ciudad; trato cercano, confidencial, con atención al detalle y seguridad.
 - Nariz (rinoplastia; hizo fellowship), aumento de busto (salino y silicón), levantamiento de busto (incluye cicatriz corta),
@@ -37,7 +41,7 @@ Fuente: su página **plasticatijuana.com** (leída el 2026-11-16, en inglés). T
 - **Restauración capilar:** Dra. Karla Saldívar.
 
 ## Por confirmar con Jacky
-- [ ] Qué procedimientos hace ella, cuáles él y cuáles juntos (ya confirmó que son socios).
+- [x] Quién hace qué (2026-11-16): **todas las cirugías las operan juntos**; la **medicina regenerativa la hace solo ella**.
 - [ ] Cuál quiere hacer crecer y cuál le quita más tiempo.
 - [ ] La página dice "Mexican Association of Plastic and Reconstructive Surgery"; ella dijo **CMCPER**. ¿Hay que corregir la página?
 - [ ] ¿Tiene más páginas web además de plasticatijuana.com?
