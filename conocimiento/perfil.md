@@ -11,5 +11,12 @@ Solo lo que ella dijo o confirmó. Lo que falta queda `[pendiente]`.
   - México: CMCPER (Consejo Mexicano de Cirugía Plástica, Estética y Reconstructiva).
   - EE. UU. e internacional: ISAPS, ASAPS y ASPS.
   - `[pendiente: cédula profesional y de especialidad, si las pone en sus documentos]`
-- **Historia, formación, años de ejercicio:** `[pendiente]`
+- **Formación (dicho por ella 2026-11-16):** UNAM, Ciudad de México. Múltiples certificaciones en el extranjero `[pendiente: cuáles]`.
+- **Años de ejercicio:** `[pendiente]`
+- **Cédula profesional:** la pone en recetas y documentos. `[pendiente: número(s) y cómo la escribe]`
+
+## En qué es especialmente buena (dicho por ella)
+- Contorno corporal.
+- Contorno facial.
+- Experta en pacientes con pérdida masiva de peso.
 - **Cómo quiere que le hable:** "Jacky", de tú. `[pendiente: confirmar en entrevista]`
