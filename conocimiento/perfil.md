@@ -12,7 +12,7 @@ Solo lo que ella dijo o confirmó. Lo que falta queda `[pendiente]`.
   - EE. UU. e internacional: ISAPS, ASAPS y ASPS.
   - `[pendiente: cédula profesional y de especialidad, si las pone en sus documentos]`
 - **Formación (dicho por ella 2026-11-16):** UNAM, Ciudad de México. Múltiples certificaciones en el extranjero `[pendiente: cuáles]`.
-- **Años de ejercicio:** `[pendiente]`
+- **Años de experiencia:** 16 (dicho por ella 2026-11-16).
 - **Cédula profesional:** la pone en recetas y documentos. `[pendiente: número(s) y cómo la escribe]`
 
 ## En qué es especialmente buena (dicho por ella)
