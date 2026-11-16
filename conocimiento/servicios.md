@@ -5,8 +5,8 @@ Fuente: su página **plasticatijuana.com** (leída el 2026-11-16, en inglés). T
 
 ## El consultorio
 - **Nombre:** Plástica Tijuana · Cervantes & Aragón Plastic Surgery Group.
-- **Cirujanos:** Dr. Juan Pablo Cervantes Díaz y Dra. Jacqueline Aragón. Operan **en equipo** ("dual surgeon":
-  dos cirujanos en el quirófano), según la página y testimonios.
+- **Cirujanos y socios (confirmado por ella 2026-11-16):** Dr. Juan Pablo Cervantes Díaz y Dra. Jacqueline Aragón.
+  **Los dos son cirujanos plásticos certificados en México.** Operan en equipo ("dual surgeon"), según la página.
 - **Otra especialista:** Dra. Karla Saldívar, restauración capilar (FUE y DHI).
 - **Dónde:** Hospital Angeles Tijuana, a 5 min de la garita con San Diego. (Su firma también dice New City Medical Plaza, Office 1901.)
 - **Pacientes:** sobre todo de EE. UU. (San Diego), turismo médico. Página en inglés.
@@ -37,7 +37,7 @@ Fuente: su página **plasticatijuana.com** (leída el 2026-11-16, en inglés). T
 - **Restauración capilar:** Dra. Karla Saldívar.
 
 ## Por confirmar con Jacky
-- [ ] Qué procedimientos hace ella, cuáles él y cuáles juntos.
+- [ ] Qué procedimientos hace ella, cuáles él y cuáles juntos (ya confirmó que son socios).
 - [ ] Cuál quiere hacer crecer y cuál le quita más tiempo.
 - [ ] La página dice "Mexican Association of Plastic and Reconstructive Surgery"; ella dijo **CMCPER**. ¿Hay que corregir la página?
 - [ ] ¿Tiene más páginas web además de plasticatijuana.com?
